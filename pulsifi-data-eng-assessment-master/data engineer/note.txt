@@ -1,0 +1,6 @@
+Please find the answer for assessment on the file below
+
+Python: assessment_ans.ipynb
+SQl: SQL explanation.ipynb
+
+Recommended to open the file using Jupyter Notebook
